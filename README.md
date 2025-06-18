@@ -41,8 +41,15 @@ This project consists of two interactive Tableau dashboards — **Sales Dashboar
 
 ## Data Filters Panel
 
-![Filters Panel](https://github.com/itstheprashant/Sales-Customer-Dashboard/blob/f037e111254617bc58cd1977a64727e4ab26b7ed/images/Data%20Filters.png
-)
+<!-- ![Filters Panel](https://github.com/itstheprashant/Sales-Customer-Dashboard/blob/f037e111254617bc58cd1977a64727e4ab26b7ed/images/Data%20Filters.png
+) -->
+<h3 align="center">Filters Panel</h3>
+<div align="center">
+  <img src="https://github.com/itstheprashant/Sales-Customer-Dashboard/blob/f037e111254617bc58cd1977a64727e4ab26b7ed/images/Data%20Filters.png" 
+       alt="Filters Panel" 
+       width="80%" 
+       height="auto"/>
+</div>
 
 Filters are available to customize dashboard views dynamically:
 
@@ -83,4 +90,14 @@ The data source integrates multiple CSV files:
 Users can switch between dashboards with clickable icons and interact directly with charts to filter data across views.
 
 ---
+
+## Conclusion
+
+- The dashboards provide a **comprehensive overview of sales and customer metrics**, allowing stakeholders to make informed, data-driven decisions.
+- **Dynamic visualizations** enable users to analyze year-over-year performance, identify sales trends, and monitor customer engagement effectively.
+- **Flexible filtering options** (by year, category, sub-category, region, state, city) make exploration easy and tailored to user needs.
+- Supports strategic planning by highlighting **top-performing customers**, product subcategories, and critical time periods (monthly/weekly).
+- Designed for **ease of use and interactivity**, enabling business users with no technical background to derive actionable insights.
+
+These dashboards bridge the gap between raw data and business strategy, driving operational efficiency and customer-focused decisions.
 
