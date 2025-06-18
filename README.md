@@ -41,14 +41,12 @@ This project consists of two interactive Tableau dashboards — **Sales Dashboar
 
 ## Data Filters Panel
 
-<!-- ![Filters Panel](https://github.com/itstheprashant/Sales-Customer-Dashboard/blob/f037e111254617bc58cd1977a64727e4ab26b7ed/images/Data%20Filters.png
-) -->
 <h3 align="center">Filters Panel</h3>
 <div align="center">
   <img src="https://github.com/itstheprashant/Sales-Customer-Dashboard/blob/f037e111254617bc58cd1977a64727e4ab26b7ed/images/Data%20Filters.png" 
        alt="Filters Panel" 
-       width="40%" 
-       height="60%"/>
+       width="30%" 
+       height="50%"/>
 </div>
 
 Filters are available to customize dashboard views dynamically:
