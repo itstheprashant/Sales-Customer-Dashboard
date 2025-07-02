@@ -1,4 +1,4 @@
-# Sales & Customer Tableau Dashboards
+# Sales & Customer Insights Dashboards
 
 [**Live Demo**](https://public.tableau.com/views/DynamicSalesCustomerDashboards_17502374374380/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
